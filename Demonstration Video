@@ -1,0 +1,8 @@
+Smart Walking Cane Demonstration
+
+This video demonstrates my Arduino-based smart walking cane detecting nearby obstacles using an ultrasonic sensor. The sensor continuously measures the distance between the cane and surrounding objects. When an obstacle is detected, the Arduino activates a buzzer and flashes an LED to alert the user. The buzzer's beeping pattern changes depending on how close the obstacle is, helping users identify objects in their path.
+
+Demonstration Video: https://youtube.com/shorts/YnjpLT7-gYc?feature=share
+
+
+
